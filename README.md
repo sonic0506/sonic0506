@@ -1,7 +1,12 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Sonic%20Dev&fontSize=70)
+
+</div>
 <div align=center>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sonic0506&locale=ko)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sonic0506&locale=ko&mode=weekly)](https://git.io/streak-stats)
+  
 </div>
 <br/>
 <div align=center>
